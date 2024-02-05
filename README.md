@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/dscetSparkTech/dscetSparkTech/blob/main/20240205_103723%5B110%5D.jpg" alt="DSCET SparkTech Logo" width="200">
+</div>
 <h1 align="center">Welcome to DSCET SparkTech! 👋</h1>
 
 <h3 align="center">🚀 Igniting Innovation, Fostering Passion for Technology 🌟</h3>
