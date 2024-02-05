@@ -24,6 +24,11 @@ Vinay Kumar, the Club Leader at DSCET SparkTech, welcomes you to our tech-driven
   <a href="mailto:support@dscetsparktechmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+
+  <a href="https://github.com/dscetsparktech">
+  <img src="https://img.shields.io/badge/-Github-%23<your_color_code>?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+</a>
+
 </div>
 
 <h3 align="left">Connect with us:</h3>
