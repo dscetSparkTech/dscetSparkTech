@@ -1,20 +1,38 @@
-<h1 align="center">Hi 👋, we're DSCET SparkTech!</h1>
-<h3 align="center">🚀 Igniting Innovation, Fostering Passion for Technology 🌟 Vinay Kumar, the Club Leader at DSCET SparkTech, welcomes you to our tech-driven community. Here, we aim to spark innovation and nurture a deep passion for technology.</h3>
+<h1 align="center">Welcome to DSCET SparkTech! 👋</h1>
+
+<h3 align="center">🚀 Igniting Innovation, Fostering Passion for Technology 🌟</h3>
+
+Vinay Kumar, the Club Leader at DSCET SparkTech, welcomes you to our tech-driven community. Here, we aim to spark innovation and nurture a deep passion for technology.
+
 - 🔭 We’re currently working on **SparkHub - Collaborative Platform for Tech Enthusiasts**
 - 👯 We’re looking to collaborate on **Innovate360 - Virtual Hackathon for Emerging Technologies**
 - 🤝 We’re looking for help with **CodeMentor - Mentorship Program for Aspiring Developers**
 - 💬 Ask us about **Tech Trends Talk: Engage with us on discussions about the latest trends in React, Vue, and GSAP.**
-- 📫 How to reach us **support@dscetsparktechmail.com**
-- 👨‍💻 All of our projects are available at **https://dscetsparktech.github.io/**
-- 📝 We regularly write articles on **https://dscetsparktech.github.io/**
-- 📄 Know about our experiences **https://dscetsparktech.github.io/**
-- ⚡ Fun fact **We believe coding is the closest thing to magic!**
+- 📫 How to reach us: **support@dscetsparktechmail.com**
+- 👨‍💻 All of our projects are available at **[DSCET SparkTech Portfolio](https://dscetsparktech.github.io/)**
+- 📝 We regularly write articles on **[DSCET SparkTech Blog](https://dscetsparktech.github.io/)**
+- 📄 Know about our experiences: **[DSCET SparkTech Experiences](https://dscetsparktech.github.io/)**
+- ⚡ Fun fact: **We believe coding is the closest thing to magic!**
 
-<div> <a href="https://www.linkedin.com/in/dscet-sparktech" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:support@dscetsparktechmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<div>
+  <a href="https://www.linkedin.com/in/dscet-sparktech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:support@dscetsparktechmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dscet-sparktech" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="dscet-sparktech" height="30" width="40" /></a><a href="https://www.youtube.com/c/adv indian coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="adv indian coder" height="30" width="40" /></a></p>
+  <a href="https://linkedin.com/in/dscet-sparktech" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="dscet-sparktech" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/advindiancoder" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="advindiancoder" height="30" width="40" />
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -87,3 +105,23 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+
+
+
+<h3> &#x1f4c8; GitHub Stats</h3>
+<div align="center" >
+    <a  href="https://github.com/dscetSparkTech">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dscetSparkTech&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dscetSparkTech&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dscetSparkTech&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dscetSparkTech&theme=dark" width="100%" height="50%">
+    </a>
+</div>
+
+
+
+
+
+
+
